@@ -3,7 +3,7 @@ Ballistic Bowling
 Attached screen recording of the game in action!
 https://github.com/user-attachments/assets/08ecbd27-9061-477e-b7b2-bb3a6964a063
 
-I built this bowling game in JavaScript on p5.js. It's like a fusion between the a slingshot game and the bowling game! You have to aim the Bowling ball which is attached to the slingshot towards the pins to know them down. As soon as the cursor releases, the ball projects and topples over the pins.
+I built this bowling game in JavaScript on p5.js. It's like a fusion between the a slingshot game and the bowling game! You have to aim the Bowling ball which is attached to the slingshot towards the pins to knock them down. As soon as the cursor releases, the ball projects and topples over the pins.
 
 Using Matter.js, which brings real-life physics into play. By using commands like `Matter.Engine`, `Matter.World`, and `Matter.Body`, I was able to add realistic effects like gravity, collisions, and elasticity. So when the bowling ball hits the pins, they fall just like they would in real life!
 
